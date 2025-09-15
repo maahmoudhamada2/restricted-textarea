@@ -39,3 +39,13 @@ article section textarea {
     right: 1rem;
     bottom: 1rem
 }
+
+.textarea-text-limit {
+    color: red;
+    outline-color: red;
+    border-color: red
+}
+
+.counter-text-limit {
+    color: red;
+}
