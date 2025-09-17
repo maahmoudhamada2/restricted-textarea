@@ -1,1 +1,5 @@
-export default function App() {}
+import Textarea from "./Textarea/Textarea";
+
+export default function App() {
+  return <Textarea />;
+}
